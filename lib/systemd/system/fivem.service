@@ -1,0 +1,11 @@
+[Unit]
+Description=FiveM server
+
+[Service]
+Type=forking
+User=root
+ExecStart=/usr/bin/fivem_start.sh
+
+[Install]
+WantedBy=multi-user.target
+Alias=fivem.service
