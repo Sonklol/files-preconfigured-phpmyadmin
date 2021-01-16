@@ -34,4 +34,5 @@ Los archivos que incluye son:
   
   
   The script is not open to the public. SCRIPT NOT AVAILABLE
+  
   El script no esta abierto al público. SCRIPT NO DISPONIBLE
