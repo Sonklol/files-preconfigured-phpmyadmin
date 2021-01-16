@@ -33,6 +33,8 @@ Los archivos que incluye son:
   - /usr/share/phpmyadmin/config.inc.php
   
   
+  
+  
   The script is not open to the public. SCRIPT NOT AVAILABLE
   
   El script no esta abierto al público. SCRIPT NO DISPONIBLE
