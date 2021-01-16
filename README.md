@@ -1,7 +1,7 @@
 # files-preconfigured-phpmyadmin
 
 
-. ENG DESCRIPTION
+## ENG DESCRIPTION
 This script has been designed to complement a shell script made by me.
 
 The script and these files were designed to quickly create a server in FiveM and automate the entire process.
@@ -17,7 +17,7 @@ The files it includes are:
   - /usr/share/phpmyadmin/config.inc.php
 
 
-# ESP DESCRIPCIÓN
+## ESP DESCRIPCIÓN
 Este script ha sido diseñado para complementar a un shell script hecho por mi.
 
 El script y estos archivos se diseñaron para crear un servidor en FiveM rápidamente y automatizar todo el proceso.
