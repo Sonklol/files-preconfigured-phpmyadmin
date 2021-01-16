@@ -1,7 +1,7 @@
 # files-preconfigured-phpmyadmin
 
 
-# ENG DESCRIPTION
+. ENG DESCRIPTION
 This script has been designed to complement a shell script made by me.
 
 The script and these files were designed to quickly create a server in FiveM and automate the entire process.
